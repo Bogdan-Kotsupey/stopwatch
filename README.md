@@ -1,21 +1,21 @@
-Stopwatch
+<b>Stopwatch</b>
   simple stopwatch
 
 [DEMOLINK](https://Bogdan-Kotsupey.github.io/stopwatch)
 
-Description
+<b>Description</b>
 
 Stopwatch with start buttons, double-tap pause button and reset button
 
-Local development:
+<b>Local development:</b>
 
-Dependencies
+<b>Dependencies</b>
 <ul>
   <li>Node v12.16.3 and higher</li>
   <li>NPM v6.14.4 and higher</li>
 </ul>
 
-Installing
+<b>Installing</b>
 
 <ul>
   <li>Fork and clone this repository</li>
@@ -23,7 +23,7 @@ Installing
   <li>Run npm start</li>
 </ul>
 
-Task:
+<b>Task:</b>
 
 Реализовать секундомер, который подсчитывает время в формате «HH: MM: SS»
 
