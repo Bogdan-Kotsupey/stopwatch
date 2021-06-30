@@ -1,0 +1,13 @@
+.screen{
+  color: aliceblue;
+  height: 85vh;
+  width: 23vw;
+  background-color: #0d0c1b;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.count {
+  padding: 50px;
+}
