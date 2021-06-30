@@ -1,5 +1,6 @@
 <b>Stopwatch</b>
-  simple stopwatch
+
+ simple stopwatch
 
 [DEMOLINK](https://Bogdan-Kotsupey.github.io/stopwatch)
 
